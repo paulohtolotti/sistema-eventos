@@ -1,6 +1,6 @@
 ## Sistema de eventos
 
-Projeto desenvolvido para o desafio "Modelo de domínio e ORM" do curso Java Spring.
+Projeto desenvolvido para o desafio "Modelo de domínio e ORM" do curso Java Spring Professional (Dev Superior).
 
 Consiste na modelagem de um modelo de domínio de um sistema de eventos com Participantes, Atividades, Categorias e Blocos.
 
